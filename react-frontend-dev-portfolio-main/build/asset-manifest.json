@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create-react-app-templates/react-frontend-dev-particles-portfolio/static/css/main.9495a5aa.css",
+    "main.js": "/create-react-app-templates/react-frontend-dev-particles-portfolio/static/js/main.befec0fb.js",
+    "index.html": "/create-react-app-templates/react-frontend-dev-particles-portfolio/index.html",
+    "main.9495a5aa.css.map": "/create-react-app-templates/react-frontend-dev-particles-portfolio/static/css/main.9495a5aa.css.map",
+    "main.befec0fb.js.map": "/create-react-app-templates/react-frontend-dev-particles-portfolio/static/js/main.befec0fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9495a5aa.css",
+    "static/js/main.befec0fb.js"
+  ]
+}

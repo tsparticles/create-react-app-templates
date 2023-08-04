@@ -3654,13 +3654,6 @@ dedent@^0.7.0:
   resolved "https://registry.npmjs.org/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
   integrity sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==
 
-deep-eql@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/deep-eql/-/deep-eql-4.1.3.tgz#7c7775513092f7df98d8df9996dd085eb668cc6d"
-  integrity sha512-WaEtAOpRA1MQ0eohqZjpGD8zdI0Ovsm8mmFhaDN8dvDZzyoUMcYDnf5Y6iu7HTXxf8JDS23qWa4a+hKCDyOPzw==
-  dependencies:
-    type-detect "^4.0.0"
-
 deep-equal@^2.0.5:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/deep-equal/-/deep-equal-2.2.2.tgz#9b2635da569a13ba8e1cc159c2f744071b115daa"
@@ -7809,12 +7802,11 @@ react-lifecycles-compat@^3.0.4:
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
 react-particles@^2.8.0:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/react-particles/-/react-particles-2.11.0.tgz#2029933a61cc388179d320d4d7dc66b40c494ac2"
-  integrity sha512-WfLKTyifBIMU826q1rQFt1WNw049mi0YGxsxns8YrG0aMa61lENX87GoSt/bB90c/lB4eqca0eGw9YsL3t+Tiw==
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/react-particles/-/react-particles-2.12.1.tgz#b91fd9a9d3df7b7935e915d93a4daf04086f62ac"
+  integrity sha512-NV6nSAoRXqA2ummXoKuz66r5WaGaCj9WjwwSroga9ua6jf3MKQXds2ifkxRvaWMJr6T9CSqfJIda/rPzbA/vEg==
   dependencies:
-    deep-eql "^4.1.3"
-    tsparticles-engine "^2.11.0"
+    tsparticles-engine "^2.12.0"
 
 react-refresh@^0.11.0:
   version "0.11.0"
@@ -8945,11 +8937,6 @@ tsparticles-basic@^2.12.0:
     tsparticles-updater-out-modes "^2.12.0"
     tsparticles-updater-size "^2.12.0"
 
-tsparticles-engine@^2.11.0:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.11.0.tgz#c687299f497c7b724966feebfc241fb4b22cc97a"
-  integrity sha512-kL6aV/6TPNF3jU6ni8jBGSVdnXAvxaeGsFalR4h+L3uMPlmbRKVs/QSnG3shwWGdWJuFmPSmXC8nI1OIWCUYpA==
-
 tsparticles-engine@^2.12.0:
   version "2.12.0"
   resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.12.0.tgz#4a52a8de4ab6085180abf27f4720f47caa1455fc"
@@ -9304,7 +9291,7 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-type-detect@4.0.8, type-detect@^4.0.0:
+type-detect@4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
   integrity sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==

@@ -7800,9 +7800,9 @@ react-lifecycles-compat@^3.0.4:
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
 react-particles@^2.8.0:
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/react-particles/-/react-particles-2.12.1.tgz#b91fd9a9d3df7b7935e915d93a4daf04086f62ac"
-  integrity sha512-NV6nSAoRXqA2ummXoKuz66r5WaGaCj9WjwwSroga9ua6jf3MKQXds2ifkxRvaWMJr6T9CSqfJIda/rPzbA/vEg==
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/react-particles/-/react-particles-2.12.2.tgz#0ab12b72428d3b89537d3422fa8bf725175cfd4d"
+  integrity sha512-Bo9DdrBRPFy8uiT7BA8P36Rdmz6GhB/RG9kkWUyZGIsS8AxWyuUjpVxw9Lr23K0LVE2aenAJ0vnqEbbLDpBgQw==
   dependencies:
     tsparticles-engine "^2.12.0"
 

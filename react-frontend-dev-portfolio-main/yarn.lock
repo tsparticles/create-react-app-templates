@@ -1259,9 +1259,9 @@
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
 "@iconify/icons-logos@^1.2.23":
-  version "1.2.35"
-  resolved "https://registry.yarnpkg.com/@iconify/icons-logos/-/icons-logos-1.2.35.tgz#f964b1a874d2c67b019fce96f280107c5c3619b2"
-  integrity sha512-w/CdiGZth3qOOzFCvtwxy5iFp7S2HUEwPu+drd6AujcAUSS4hae6gyPwQXH7eJkix50Ne0xmR4HBZGozDIa6Hw==
+  version "1.2.36"
+  resolved "https://registry.yarnpkg.com/@iconify/icons-logos/-/icons-logos-1.2.36.tgz#39f0d438aa327991ab3f0280c98ed1d2fd233675"
+  integrity sha512-RVdZE9figuWmd8HeVmM8oQvOdv/4YzXV6lZ+G9QJgzCB/VBLV0inPltZxOt939oj4GbKbr7PF6J4bADMua/GPw==
   dependencies:
     "@iconify/types" "*"
 

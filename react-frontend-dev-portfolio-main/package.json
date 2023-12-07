@@ -19,7 +19,7 @@
     "react-switch": "^7.0.0",
     "react-typical": "^0.1.3",
     "react-vertical-timeline-component": "^3.6.0",
-    "tsparticles": "^2.8.0"
+    "tsparticles": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
